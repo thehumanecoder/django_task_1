@@ -1,1 +1,1 @@
-from .base import ArtworksSerializer
+from .base import ArtworksSerializer,RegisterArtworkSerializer,ArtworkAdminSerializer
